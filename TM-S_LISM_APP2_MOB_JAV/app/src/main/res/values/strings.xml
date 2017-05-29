@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TM-S_LISM_APP2_MOB_JAV</string>
+    <string name="producer">Producent</string>
+    <string name="model">Model</string>
+    <string name="android_version">Wersja Androida</string>
+    <string name="website_url">Adres strony</string>
+    <string name="cancel_button">Anuluj</string>
+    <string name="save_button">Zapisz</string>
+    <string name="website_button">WWW</string>
+    <string name="add_device_button">Dodaj</string>
+    <string name="remove_device_button">Usuń</string>
+    <string name="refresh_button">Odśwież</string>
+</resources>

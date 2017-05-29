@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App1LISM</string>
+    <string name="name_text">Imię</string>
+    <string name="surname_text">Nazwisko</string>
+    <string name="rates_count">Liczba ocen</string>
+    <string name="rates_button">Oceny</string>
+    <string name="name_empty_toast">Imię nie jest podane</string>
+    <string name="surname_empty_toast">Nazwisko nie jest podane</string>
+    <string name="rates_count_toast_empty">Liczba ocen nie jest podana</string>
+    <string name="rates_count_toast_wrong">Liczba ocen nie jest w przedziale od 5 do 15</string>
+    <string name="lack_of_rates">Nie wszystkie oceny są wpisane</string>
+    <string name="sad_button">Tym razem mi nie poszło</string>
+    <string name="happy_button">Super :)</string>
+    <string name="happy_message">Gratulacje! Otrzymujesz zaliczenie!</string>
+    <string name="sad_message">Wysyłam podanie o zaliczenie warunkowe.</string>
+    <string name="done_button">Gotowe</string>
+</resources>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tm.tm_s_lism_app2_mob_jav.net.example.tm.tm_s_lism_app2_mob_jav.MainActivity">
+    <item
+        android:id="@+id/action_remove_device"
+        android:orderInCategory="100"
+        android:title="@string/remove_device_button"
+        app:showAsAction="always" />
+</menu>
