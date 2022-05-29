@@ -1,3 +1,7 @@
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Repo moved here 👉 https://github.com/SelfRef/android-labs
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 # Android apps from laboratories
 
 App 1 | App 2 | App 3
